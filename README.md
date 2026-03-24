@@ -1,4 +1,4 @@
-# A/B Testing Analysis: Ad Campaign Conversion & Lift Performance
+# A/B Testing Analysis | Ad Campaign Conversion & Lift Performance
 
 
 ![dashboard screenshot](ab_test_dashboard.png)
@@ -42,6 +42,10 @@ A longitudinal analysis of `Average Conversion` mapped against `Total Ads (Bins)
 
 
 ## How to use
-1. **Source FILE** Download .pbix file [ab_test](ab_test_marketing.pbix)
-**Developer:** Maria Aslam
-**Role:** Data Analyst & BI Developer
+1. **Source FILE**                   Download .pbix file [ab_test](ab_test_marketing.pbix)
+
+
+#### Developer
+Maria Aslam
+Data Analyst & BI Developer
+[LinkedIn](https://www.linkedin.com/in/maria-aslam-458860316/)
