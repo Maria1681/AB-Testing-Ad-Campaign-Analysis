@@ -42,7 +42,8 @@ A longitudinal analysis of `Average Conversion` mapped against `Total Ads (Bins)
 
 
 ## How to use
-1. **Source FILE**                   Download .pbix file [ab_test](ab_test_marketing.pbix)
+
+**Source FILE:**                      Download .pbix file [ab_test](ab_test_marketing.pbix)
 
 
 #### Developer
